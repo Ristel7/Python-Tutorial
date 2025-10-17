@@ -41,3 +41,44 @@ student = {"name": "Priyanshu", "age": 21, "course": "Python"}
 
 # NoneType
 value = None
+
+
+# Day 5: Integer (int) Data Type in Python
+
+This folder contains my Day 5 Python practice file — `Int_DataType.py`.  
+In this lesson, I learned everything about the **integer (`int`) data type** in Python, including how to use it, perform operations, convert between types, and apply it in real examples.
+
+---
+
+## 🧠 Topics Covered
+
+- What is an integer (`int`) in Python  
+- Declaring and printing integer values  
+- Arithmetic operations  
+  - Addition `+`  
+  - Subtraction `-`  
+  - Multiplication `*`  
+  - Division `/`  
+  - Floor Division `//`  
+  - Modulus `%`  
+  - Exponent `**`  
+- Type conversion using `int()`  
+- Integer comparisons (`==`, `!=`, `>`, `<`, `>=`, `<=`)  
+- Working with very large integers  
+- Real-world examples using integers  
+
+---
+
+## 💡 Example Snippet
+
+```python
+a = 15
+b = 4
+
+print("Addition:", a + b)
+print("Floor Division:", a // b)
+print("Modulus:", a % b)
+
+x = "50"
+y = 12.7
+print("Converted:", int(x), int(y))
