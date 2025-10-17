@@ -95,6 +95,3 @@ days = 5
 hours = days * 24
 print("Total hours in", days, "days =", hours)
 
-# -----------------------------------
-# End of Day 5 Lesson
-# -----------------------------------
