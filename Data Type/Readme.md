@@ -82,3 +82,46 @@ print("Modulus:", a % b)
 x = "50"
 y = 12.7
 print("Converted:", int(x), int(y))
+
+
+# Day 6: Float (float) Data Type in Python
+
+This folder contains my Day 6 Python practice file — `Float_DataType.py`.  
+In this lesson, I explored how Python handles **floating-point numbers (decimal values)** and how to perform arithmetic, conversions, rounding, and formatting operations with them.
+
+---
+
+## 🧠 Topics Covered
+
+- What is a float in Python  
+- Declaring and printing float variables  
+- Arithmetic operations  
+  - Addition `+`  
+  - Subtraction `-`  
+  - Multiplication `*`  
+  - Division `/`  
+  - Floor Division `//`  
+  - Modulus `%`  
+  - Exponent `**`  
+- Type conversion to float using `float()`  
+- Rounding and formatting float values  
+- Float precision and accuracy issues  
+- Comparison of float values  
+- Real-world examples with floats  
+
+---
+
+## 💡 Example Snippet
+
+```python
+a = 5.5
+b = 2.0
+
+print("Addition:", a + b)
+print("Floor Division:", a // b)
+print("Modulus:", a % b)
+
+celsius = 36.6
+fahrenheit = (celsius * 9/5) + 32
+print("Temperature in Fahrenheit:", fahrenheit)
+
