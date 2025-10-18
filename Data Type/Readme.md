@@ -111,17 +111,3 @@ In this lesson, I explored how Python handles **floating-point numbers (decimal 
 
 ---
 
-## 💡 Example Snippet
-
-```python
-a = 5.5
-b = 2.0
-
-print("Addition:", a + b)
-print("Floor Division:", a // b)
-print("Modulus:", a % b)
-
-celsius = 36.6
-fahrenheit = (celsius * 9/5) + 32
-print("Temperature in Fahrenheit:", fahrenheit)
-
