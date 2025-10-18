@@ -89,9 +89,8 @@ print("Converted:", int(x), int(y))
 This folder contains my Day 6 Python practice file — `Float_DataType.py`.  
 In this lesson, I explored how Python handles **floating-point numbers (decimal values)** and how to perform arithmetic, conversions, rounding, and formatting operations with them.
 
----
 
-## 🧠 Topics Covered
+##  Topics Covered
 
 - What is a float in Python  
 - Declaring and printing float variables  
@@ -108,6 +107,3 @@ In this lesson, I explored how Python handles **floating-point numbers (decimal 
 - Float precision and accuracy issues  
 - Comparison of float values  
 - Real-world examples with floats  
-
----
-
