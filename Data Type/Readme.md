@@ -107,3 +107,51 @@ In this lesson, I explored how Python handles **floating-point numbers (decimal 
 - Float precision and accuracy issues  
 - Comparison of float values  
 - Real-world examples with floats  
+
+
+# Day 7: Complex (complex) Data Type in Python
+
+This folder contains my Day 7 Python practice file — `Complex_DataType.py`.  
+In this lesson, I explored how Python handles **complex numbers**, how to perform arithmetic and mathematical operations on them, and how to use the `cmath` module for advanced calculations.
+
+---
+
+## 🧠 Topics Covered
+
+- What is a complex number in Python  
+- Creating complex numbers  
+  - Using literals (`a + bj`)  
+  - Using the `complex()` constructor  
+- Accessing real and imaginary parts  
+- Arithmetic operations on complex numbers  
+- Conjugate and magnitude (`abs()`)  
+- Comparison (`==`, `!=`)  
+- Using the `cmath` module for:  
+  - Square roots of complex numbers  
+  - Phase angle (argument)  
+  - Polar and rectangular conversions  
+- Real-world examples  
+  - Electrical voltage representation  
+  - Solving quadratic equations with complex roots  
+
+---
+
+## 💡 Example Snippet
+
+```python
+num1 = 3 + 5j
+num2 = 7 - 2j
+
+print("Addition:", num1 + num2)
+print("Conjugate of num1:", num1.conjugate())
+
+import cmath
+z = 16 + 9j
+print("Square root of z:", cmath.sqrt(z))
+
+# Solving a quadratic equation: x² + 4x + 13 = 0
+a, b, c = 1, 4, 13
+d = cmath.sqrt(b**2 - 4*a*c)
+root1 = (-b + d) / (2*a)
+root2 = (-b - d) / (2*a)
+print("Roots:", root1, root2)
