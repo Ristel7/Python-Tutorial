@@ -155,3 +155,7 @@ d = cmath.sqrt(b**2 - 4*a*c)
 root1 = (-b + d) / (2*a)
 root2 = (-b - d) / (2*a)
 print("Roots:", root1, root2)
+
+
+
+Day 8 of my Python learning journey — learned about the Boolean (bool) data type, logical operators, truthy/falsy values, and real-world use cases like conditions, login checks, and data filtering.
