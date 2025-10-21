@@ -71,7 +71,6 @@ In this lesson, I learned everything about the **integer (`int`) data type** in 
 
 ## 💡 Example Snippet
 
-```python
 a = 15
 b = 4
 
@@ -138,7 +137,6 @@ In this lesson, I explored how Python handles **complex numbers**, how to perfor
 
 ## 💡 Example Snippet
 
-```python
 num1 = 3 + 5j
 num2 = 7 - 2j
 
@@ -159,3 +157,6 @@ print("Roots:", root1, root2)
 
 
 Day 8 of my Python learning journey — learned about the Boolean (bool) data type, logical operators, truthy/falsy values, and real-world use cases like conditions, login checks, and data filtering.
+
+
+Day 9 of my Python learning journey — learned about strings, slicing, concatenation, formatting, methods, escape characters, and real-world string operations like email validation and password strength checking.
