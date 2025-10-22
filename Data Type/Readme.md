@@ -160,3 +160,16 @@ Day 8 of my Python learning journey — learned about the Boolean (bool) data ty
 
 
 Day 9 of my Python learning journey — learned about strings, slicing, concatenation, formatting, methods, escape characters, and real-world string operations like email validation and password strength checking.
+
+
+Day 10 — NoneType Data Type in Python
+In this lesson, I explored the NoneType in Python — a unique type with only one value: None.
+It represents the absence of a value, often used in functions that return nothing, optional arguments, or placeholders for missing data.
+Topics Covered:
+Declaring and identifying None
+Comparing using is and is not
+Using None in conditional statements
+Function returns and default arguments
+Cleaning lists and dictionaries with None values
+Difference between None, 0, False, and empty values
+Practical examples like safe_divide() and find_item()
