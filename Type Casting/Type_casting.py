@@ -1,5 +1,5 @@
 # -----------------------------------
-# Day 11: Type Checking and Type Conversion
+# Type Checking and Type Conversion
 # -----------------------------------
 
 # Type checking: Using type() and isinstance()
@@ -7,7 +7,6 @@
 
 # -----------------------------------
 # TYPE CHECKING
-# -----------------------------------
 
 # type() tells you the exact data type of a variable
 a = 10
@@ -150,7 +149,3 @@ describe_value(123)
 describe_value("Python")
 describe_value([1, 2, 3])
 describe_value(None)
-
-# -----------------------------------
-# End of Day 11 Lesson
-# -----------------------------------
