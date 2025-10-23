@@ -9,7 +9,3 @@ In this lesson, I learned how to create, update, and use **variables** and **con
 - Using constants with uppercase names (PI, GRAVITY, etc.)
 - Performing operations with variables
 - Combining constants and variables in formulas
-
-## Example Code
-File: `Variables_Constants.py`
-
