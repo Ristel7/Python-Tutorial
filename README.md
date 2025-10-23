@@ -30,7 +30,3 @@ This folder contains my Day 2 Python practice file — `Comment.py`, where I lea
 - Multi-line comments using `'''` or `"""`
 - Writing algorithm-like descriptions inside comments
 
-## How to Run
-```bash
-python Comment.py
-
