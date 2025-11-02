@@ -24,3 +24,18 @@ Grading system
 Weather classification
 Menu-driven calculator
 Speed alert system
+
+
+Day 16 — else Statement in Python
+The else statement provides a default action when none of the previous if or elif conditions are true.
+It’s the final safety net in any conditional logic.
+Topics Covered:
+Basic use of else with if
+Multiple elif followed by a final else
+Default logic handling (invalid input, failed checks)
+Nested else inside other blocks
+Real-world examples:
+Login validation
+Tax calculation
+Menu selection
+ATM withdrawal system
