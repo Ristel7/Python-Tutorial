@@ -39,3 +39,19 @@ Login validation
 Tax calculation
 Menu selection
 ATM withdrawal system
+
+
+Day 17 — Nested Conditions in Python
+Nested conditions let your code make hierarchical decisions, where one check depends on another.
+They’re useful for building decision trees and real-world logic flows.
+Topics Covered:
+Concept and syntax of nested conditions
+Multi-level decision-making
+Indentation importance
+Combining logic with and, or inside nested blocks
+Real-world examples:
+Voting eligibility
+Banking system simulation
+Driving license check
+Discount system
+Exam eligibility check
