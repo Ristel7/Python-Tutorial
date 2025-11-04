@@ -55,3 +55,13 @@ Banking system simulation
 Driving license check
 Discount system
 Exam eligibility check
+
+
+Day 18 — Shorthand If Statement in Python
+In this lesson, you learned how to write compact conditional statements in a single line using shorthand if and the ternary operator.
+Topics Covered:
+Shorthand if syntax
+Ternary operator (x if condition else y)
+Chained shorthand if-else
+Input-based conditions
+Real-world examples (age check, login, grading)
