@@ -46,3 +46,15 @@ Sorting, counting, and looping
 Nested lists and 2D traversal
 
 List comprehension — create and filter lists efficiently
+
+Tuples in Python (Immutable Sequences)
+Tuples are immutable, ordered sequences — great for fixed collections of data.
+They’re faster and more memory-efficient than lists and can be used as dictionary keys.
+Topics Covered:
+Tuple creation and immutability
+Indexing, slicing, and iteration
+Unpacking and extended unpacking (*var)
+Tuple methods: count(), index()
+Using tuples as dictionary keys
+Tuple operations and comparisons
+Real-world examples: coordinates, records, function returns
