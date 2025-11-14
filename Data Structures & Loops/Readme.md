@@ -58,3 +58,9 @@ Tuple methods: count(), index()
 Using tuples as dictionary keys
 Tuple operations and comparisons
 Real-world examples: coordinates, records, function returns
+
+
+**Day 22 — Sets and Frozensets in Python
+**
+Sets store unique items, making them perfect for data filtering, membership checking, and removing duplicates.
+Frozensets are the immutable version of sets, useful when you want fixed, hashable collections.
