@@ -148,7 +148,3 @@ print("\nUsers on both days:", users_day1 & users_day2)
 print("Only Day 1:", users_day1 - users_day2)
 print("Only Day 2:", users_day2 - users_day1)
 print("Visited any day:", users_day1 | users_day2)
-
-# -----------------------------------------
-# End of Day 22: Sets and Frozensets
-# -----------------------------------------
