@@ -64,3 +64,7 @@ Real-world examples: coordinates, records, function returns
 **
 Sets store unique items, making them perfect for data filtering, membership checking, and removing duplicates.
 Frozensets are the immutable version of sets, useful when you want fixed, hashable collections.
+
+📘 Python Dictionaries – Full Detailed Explanation
+This folder contains a detailed Python script that explores dictionaries from the ground up.
+It goes through how to create, modify, loop through, and use dictionaries in real situations.
