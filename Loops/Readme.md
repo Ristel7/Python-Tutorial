@@ -46,3 +46,27 @@ Searching in a list
 Counting vowels
 
 Filtering even numbers
+
+
+Day — While Loop in Python (In-Depth)
+
+This lesson covers the while loop from the basics to practical real-world patterns.
+You’ll understand how the loop runs, how to control it, and when to use it instead of a for loop.
+
+What’s included:
+
+Basic while loops
+
+Decreasing counters
+
+break and continue
+
+Infinite loop menus
+
+Input validation
+
+While-else usage
+
+Manual iteration through lists
+
+Real-world examples like password checking and summing values
