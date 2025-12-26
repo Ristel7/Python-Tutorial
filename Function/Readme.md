@@ -21,3 +21,12 @@ It explains how functions are created, how data is passed, and how values are re
 
 ## Commit Message
 Added Day 25: Defining Functions in Python
+
+🧠 **What You Learned**
+| Scope Type           | Meaning                                                     |
+| -------------------- | ----------------------------------------------------------- |
+| **Local**            | Variables created inside a function                         |
+| **Global**           | Variables declared outside functions                        |
+| **nonlocal**         | Variables in parent function (used inside nested functions) |
+| **global keyword**   | Allows modifying global variables                           |
+| **nonlocal keyword** | Allows modifying variables in outer (nested) function       |
