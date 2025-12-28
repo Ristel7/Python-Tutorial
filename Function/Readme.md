@@ -30,3 +30,6 @@ Added Day 25: Defining Functions in Python
 | **nonlocal**         | Variables in parent function (used inside nested functions) |
 | **global keyword**   | Allows modifying global variables                           |
 | **nonlocal keyword** | Allows modifying variables in outer (nested) function       |
+
+
+**Day 27**
