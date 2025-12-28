@@ -28,18 +28,6 @@ It explains how functions are created, how data is passed, and how values are re
 | **nonlocal keyword** | Allows modifying variables in outer (nested) function       |
 
 
-**Day 27**
-
-| Concept                | Explanation                               |
-| ---------------------- | ----------------------------------------- |
-| **Recursion**          | A function calling itself                 |
-| **Base Condition**     | Stops infinite looping                    |
-| **Recursive case**     | The part that repeats                     |
-| **Stack behavior**     | Output before and after recursive calls   |
-| **Practical examples** | Factorial, Fibonacci, sum, string reverse |
-| **Real-world uses**    | Searching, directory scanning, tree data  |
-
-
 # Day 27 — Recursion (Functions Calling Themselves)
 
 Recursion is one of the most important concepts in Python. 
@@ -58,6 +46,13 @@ This lesson explains how recursive functions work using base conditions, how the
   - Directory tree scanning
   - Binary search
 
-
+| Concept                | Explanation                               |
+| ---------------------- | ----------------------------------------- |
+| **Recursion**          | A function calling itself                 |
+| **Base Condition**     | Stops infinite looping                    |
+| **Recursive case**     | The part that repeats                     |
+| **Stack behavior**     | Output before and after recursive calls   |
+| **Practical examples** | Factorial, Fibonacci, sum, string reverse |
+| **Real-world uses**    | Searching, directory scanning, tree data  |
 
 
