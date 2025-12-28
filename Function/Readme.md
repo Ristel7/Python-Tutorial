@@ -33,3 +33,13 @@ Added Day 25: Defining Functions in Python
 
 
 **Day 27**
+
+| Concept                | Explanation                               |
+| ---------------------- | ----------------------------------------- |
+| **Recursion**          | A function calling itself                 |
+| **Base Condition**     | Stops infinite looping                    |
+| **Recursive case**     | The part that repeats                     |
+| **Stack behavior**     | Output before and after recursive calls   |
+| **Practical examples** | Factorial, Fibonacci, sum, string reverse |
+| **Real-world uses**    | Searching, directory scanning, tree data  |
+
