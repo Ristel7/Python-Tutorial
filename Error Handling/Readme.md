@@ -16,9 +16,15 @@ robust programs using try, except, else, and finally blocks.
   - Login system
   - Safe calculator
 
-## File
-error_handling_detailed.py
+| Concept           | Why It Matters                 |
+| ----------------- | ------------------------------ |
+| `try-except`      | Prevents program crashes       |
+| Multiple except   | Handles different error types  |
+| `else`            | Runs when no error occurs      |
+| `finally`         | Cleanup code (always runs)     |
+| Generic exception | Catch unknown errors           |
+| `raise`           | Create your own errors         |
+| Custom exceptions | Clean, readable error handling |
+| Real-world usage  | Login, calculator, validation  |
 
-## Commit Message
-Added Day 28: Error Handling in Python with practical examples
 
