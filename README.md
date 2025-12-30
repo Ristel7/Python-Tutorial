@@ -1,32 +1,100 @@
-# Python-Tutorial
-My Python learning journey: from fundamentals to advanced concepts. Includes daily practice scripts, exercises, and mini projects with GitHub version tracking.
+**🐍 Python Learning Journey — From Scratch to Core Concepts**
 
+This repository documents my step-by-step journey of learning Python from scratch, focusing on strong fundamentals, clean logic, and real-world examples.
 
-# Day 1: Python Print Statement
+The goal of this repo is simple:
+learn Python properly, one concept at a time, with clear code and daily progress.
 
-This repository contains my first Python code where I explored the `print()` function.
+📌 What This Repository Covers
 
-## Concepts covered
-- Basic printing
-- Printing variables and numbers
-- Using separators and end parameters
-- f-strings for formatting
-- Escape sequences (`\n`, `\t`)
-- Printing expressions and comments
+This repo is organized day-wise. Each folder represents one learning day and focuses on a single concept or closely related topics.
 
-## How to run
-1. Install Python (if not already installed)
-2. Clone this repository:
-   ```bash
+🔹 Python Basics
 
+Print statements
 
-# Day 2: Comments in Python
+Comments (single-line & multi-line)
 
-This folder contains my Day 2 Python practice file — `Comment.py`, where I learned how to use **single-line** and **multi-line** comments.
+Variables and constants
 
-## Topics Covered
-- Single-line comments using `#`
-- Inline comments after code
-- Multi-line comments using `'''` or `"""`
-- Writing algorithm-like descriptions inside comments
+Input from users
 
+Type checking and type conversion
+
+🔹 Data Types
+
+Integer
+
+Float
+
+Complex
+
+Boolean
+
+String (in-depth: indexing, slicing, methods, formatting)
+
+NoneType
+
+🔹 Data Structures
+
+Lists (methods, slicing, comprehension)
+
+Tuples (immutability, unpacking, dictionary keys)
+
+Sets & Frozensets (unique elements, set operations)
+
+Dictionaries (creation, access, methods, nesting)
+
+🔹 Control Flow
+
+if, elif, else
+
+Shorthand if
+
+Nested conditions
+
+🔹 Loops
+
+for loop (basic to advanced)
+
+while loop (detailed)
+
+Nested loops
+
+Pattern-style logic
+
+break, continue, for-else, while-else
+
+🔹 Functions
+
+Defining functions
+
+Parameters & return values
+
+Default arguments
+
+*args and **kwargs
+
+Nested functions
+
+Function scope:
+
+local
+
+global
+
+nonlocal
+
+Recursion (functions calling themselves)
+
+🔹 Error Handling
+
+try / except
+
+multiple exceptions
+
+else and finally
+
+raising custom exceptions
+
+real-world safe programs
