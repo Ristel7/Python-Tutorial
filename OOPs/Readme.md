@@ -14,4 +14,13 @@ It explains how to create classes, objects, attributes, and methods using clear 
 - Multiple objects from same class
 - Real-world example (Bank Account)
 
+| Concept          | Meaning                    |
+| ---------------- | -------------------------- |
+| Class            | Blueprint of an object     |
+| Object           | Instance of a class        |
+| Attribute        | Data stored inside object  |
+| Method           | Function inside a class    |
+| `__init__()`     | Constructor                |
+| `self`           | Refers to current object   |
+| Multiple objects | Same class, different data |
 
