@@ -24,3 +24,18 @@ It explains how to create classes, objects, attributes, and methods using clear 
 | `self`           | Refers to current object   |
 | Multiple objects | Same class, different data |
 
+# Day 32 — **Inheritance in Python**
+
+This lesson explains inheritance, one of the core pillars of Object-Oriented Programming.
+It shows how classes reuse and extend behavior through parent-child relationships.
+
+## Topics Covered
+- Single inheritance
+- Inheriting constructors
+- Method overriding
+- super() keyword
+- Multilevel inheritance
+- Multiple inheritance
+- Method Resolution Order (MRO)
+- Real-world example (Bank system)
+
