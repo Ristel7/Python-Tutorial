@@ -39,3 +39,14 @@ It shows how classes reuse and extend behavior through parent-child relationship
 - Method Resolution Order (MRO)
 - Real-world example (Bank system)
 
+| Concept                | Meaning                                 |
+| ---------------------- | --------------------------------------- |
+| Inheritance            | Child class uses parent class features  |
+| `super()`              | Access parent methods                   |
+| Method overriding      | Child replaces parent behavior          |
+| Single inheritance     | One parent, one child                   |
+| Multilevel inheritance | Parent → Child → Grandchild             |
+| Multiple inheritance   | Child with multiple parents             |
+| MRO                    | Order Python follows to resolve methods |
+
+
