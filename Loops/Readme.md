@@ -80,6 +80,12 @@ is required but logic is not yet implemented.
 - Using pass while designing program structure
 - Real-world use cases
 
+| Statement      | What it does                                |
+| -------------- | ------------------------------------------- |
+| `pass`         | Does nothing                                |
+| `continue`     | Skips current loop iteration                |
+| `break`        | Exits loop                                  |
+| `pass` ≠ empty | Python **requires** something inside blocks |
 
 
 
