@@ -65,8 +65,21 @@ Infinite loop menus
 
 Input validation
 
-While-else usage
+**# Day 33 — pass Statement in Python**
 
-Manual iteration through lists
+This lesson explains the `pass` statement and why it exists in Python.
+It shows how `pass` acts as a placeholder to avoid syntax errors when a block
+is required but logic is not yet implemented.
 
-Real-world examples like password checking and summing values
+## Topics Covered
+- pass in functions and classes
+- pass in if-else statements
+- pass in loops
+- Difference between pass, continue, and break
+- pass in exception handling
+- Using pass while designing program structure
+- Real-world use cases
+
+
+
+
