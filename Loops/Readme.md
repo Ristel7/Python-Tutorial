@@ -104,4 +104,11 @@ It shows practical examples where loops should stop early or safely.
   - Searching in a list
   - Safe infinite loops
 
+| Concept   | Meaning                        |
+| --------- | ------------------------------ |
+| `break`   | Immediately exits loop         |
+| Affects   | `for` and `while` loops        |
+| Stops     | Current loop completely        |
+| Used with | Conditions, input, search      |
+| for-else  | else skipped if break executes |
 
