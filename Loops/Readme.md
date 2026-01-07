@@ -87,5 +87,21 @@ is required but logic is not yet implemented.
 | `break`        | Exits loop                                  |
 | `pass` ≠ empty | Python **requires** something inside blocks |
 
+**# Day 34 — break Statement in Python**
+
+This lesson explains how the `break` statement works and how it controls loop execution.
+It shows practical examples where loops should stop early or safely.
+
+## Topics Covered
+- break in for loops
+- break in while loops
+- break with user input
+- break inside nested loops
+- for-else with break
+- break vs continue
+- Real-world examples:
+  - Password attempt system
+  - Searching in a list
+  - Safe infinite loops
 
 
