@@ -112,3 +112,20 @@ It shows practical examples where loops should stop early or safely.
 | Used with | Conditions, input, search      |
 | for-else  | else skipped if break executes |
 
+# Day 35 — **continue Statement in Python**
+
+This lesson explains how the `continue` statement works and how it helps skip
+specific iterations inside loops without stopping execution.
+
+## Topics Covered
+- continue in for loops
+- continue in while loops
+- continue with user input
+- continue inside nested loops
+- continue vs break comparison
+- for-else with continue
+- Real-world examples:
+  - Data filtering
+  - Login simulation
+  - Cleaning invalid input
+
