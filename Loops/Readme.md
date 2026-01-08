@@ -129,3 +129,8 @@ specific iterations inside loops without stopping execution.
   - Login simulation
   - Cleaning invalid input
 
+| break                 | continue            |
+| --------------------- | ------------------- |
+| Exits loop completely | Skips one iteration |
+| Loop stops            | Loop continues      |
+| Used to stop          | Used to filter      |
