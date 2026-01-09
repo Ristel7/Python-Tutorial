@@ -64,4 +64,13 @@ This lesson explains public, protected, and private members with practical examp
   - ATM system
 
 
+| Concept         | Meaning                         |
+| --------------- | ------------------------------- |
+| Encapsulation   | Protecting data                 |
+| Public          | Accessible everywhere           |
+| Protected       | Accessible within class & child |
+| Private         | Hidden from outside             |
+| Name Mangling   | How Python hides private data   |
+| Getters/Setters | Controlled access               |
+| `@property`     | Pythonic getter/setter          |
 
