@@ -49,4 +49,19 @@ It shows how classes reuse and extend behavior through parent-child relationship
 | Multiple inheritance   | Child with multiple parents             |
 | MRO                    | Order Python follows to resolve methods |
 
+# Day 36 — Encapsulation in Python
+
+Encapsulation helps protect data and ensures controlled access to class attributes.
+This lesson explains public, protected, and private members with practical examples.
+
+## Topics Covered
+- Public, protected, private members
+- Name mangling
+- Getter and setter methods
+- @property decorator
+- Real-world examples:
+  - Bank account
+  - ATM system
+
+
 
