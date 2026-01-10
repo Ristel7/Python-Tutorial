@@ -91,3 +91,11 @@ This lesson demonstrates polymorphism using classes, inheritance, duck typing, a
   - Payment system
   - Notification service
 
+| Concept               | Meaning                           |
+| --------------------- | --------------------------------- |
+| Polymorphism          | Same method, different behavior   |
+| Duck typing           | Behavior matters, not type        |
+| Method overriding     | Child changes parent behavior     |
+| Function polymorphism | Same function, different objects  |
+| Operator overloading  | Custom behavior for operators     |
+| Built-in polymorphism | Same function works on many types |
