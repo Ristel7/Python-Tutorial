@@ -74,3 +74,20 @@ This lesson explains public, protected, and private members with practical examp
 | Getters/Setters | Controlled access               |
 | `@property`     | Pythonic getter/setter          |
 
+# Day 37 — Polymorphism in Python
+
+Polymorphism allows the same method name to behave differently depending on the object.
+This lesson demonstrates polymorphism using classes, inheritance, duck typing, and operator overloading.
+
+## Topics Covered
+- Same method, different behavior
+- Duck typing
+- Polymorphism with inheritance
+- Method overriding
+- Polymorphism via function arguments
+- Operator overloading
+- Built-in polymorphism
+- Real-world examples:
+  - Payment system
+  - Notification service
+
