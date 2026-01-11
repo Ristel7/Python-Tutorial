@@ -117,4 +117,12 @@ It focuses on exposing only essential functionality and hiding internal logic.
   - Notification system
   - Shape area calculation
 
+| Concept         | Meaning                             |
+| --------------- | ----------------------------------- |
+| Abstraction     | Hiding implementation details       |
+| Abstract class  | Blueprint for child classes         |
+| @abstractmethod | Forces method implementation        |
+| abc module      | Enables abstraction                 |
+| Concrete method | Normal method inside abstract class |
+| Contract        | Child classes must follow structure |
 
