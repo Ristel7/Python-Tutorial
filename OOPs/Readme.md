@@ -99,3 +99,22 @@ This lesson demonstrates polymorphism using classes, inheritance, duck typing, a
 | Function polymorphism | Same function, different objects  |
 | Operator overloading  | Custom behavior for operators     |
 | Built-in polymorphism | Same function works on many types |
+
+
+# Day 38 — Abstraction in Python
+
+Abstraction is one of the core pillars of Object-Oriented Programming.
+It focuses on exposing only essential functionality and hiding internal logic.
+
+## Topics Covered
+- Abstract Base Classes (ABC)
+- @abstractmethod decorator
+- Concrete methods in abstract classes
+- Enforcing structure using abstraction
+- Why abstract classes cannot be instantiated
+- Real-world examples:
+  - Payment system
+  - Notification system
+  - Shape area calculation
+
+
