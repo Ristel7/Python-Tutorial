@@ -33,5 +33,15 @@ It covers array creation, manipulation, mathematical operations, and real-world 
 - Stacking arrays
 - Data normalization
 
+| Concept          | Why It Matters            |
+| ---------------- | ------------------------- |
+| NumPy arrays     | Faster than lists         |
+| Shape & dtype    | Understand data structure |
+| Vectorized ops   | No loops                  |
+| Broadcasting     | Clean math                |
+| Boolean indexing | Filtering                 |
+| Stats functions  | Analysis                  |
+| Matrix ops       | ML foundation             |
+| Copy vs view     | Avoid bugs                |
 
 
