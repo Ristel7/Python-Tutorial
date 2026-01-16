@@ -16,4 +16,22 @@ grouping, cleaning, and exporting data.
 - Writing cleaned data to CSV
 - Real-world data cleaning pipeline
 
+# Day 41 — NumPy Basics
+
+This lesson introduces NumPy, the core library for numerical computing in Python.
+It covers array creation, manipulation, mathematical operations, and real-world examples.
+
+## Topics Covered
+- Creating NumPy arrays
+- Array properties
+- Indexing and slicing
+- Mathematical operations
+- Statistical functions
+- Matrix operations
+- Random number generation
+- Copy vs view
+- Stacking arrays
+- Data normalization
+
+
 
