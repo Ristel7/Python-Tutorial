@@ -44,4 +44,22 @@ It covers array creation, manipulation, mathematical operations, and real-world 
 | Matrix ops       | ML foundation             |
 | Copy vs view     | Avoid bugs                |
 
+# Day 42 — NumPy Advanced (Broadcasting, Axis, Performance)
+
+This lesson covers advanced NumPy concepts that make numerical code fast and scalable.
+It explains broadcasting rules, axis usage, and performance benefits of vectorization.
+
+## Topics Covered
+- Broadcasting with scalars and arrays
+- Axis-based operations
+- keepdims usage
+- Vectorization vs loops
+- Performance timing
+- Universal functions (ufuncs)
+- Boolean masking and where
+- Memory views
+- Flatten vs ravel
+- Real-world feature scaling
+
+
 
