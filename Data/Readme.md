@@ -61,5 +61,24 @@ It explains broadcasting rules, axis usage, and performance benefits of vectoriz
 - Flatten vs ravel
 - Real-world feature scaling
 
+# Day 43 — **Pandas Advanced**
+
+This lesson covers advanced Pandas operations used in real-world data analysis,
+including groupby analytics, merging datasets, window functions, and performance tips.
+
+## Topics Covered
+- Advanced filtering
+- GroupBy with multiple aggregations
+- transform vs apply
+- map and applymap
+- Sorting with multiple columns
+- Merge and join operations
+- Date handling
+- Rolling window functions
+- Ranking analytics
+- Performance best practices
+- Real-world department report
+
+
 
 
