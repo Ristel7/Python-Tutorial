@@ -79,6 +79,22 @@ including groupby analytics, merging datasets, window functions, and performance
 - Performance best practices
 - Real-world department report
 
+# Day 45 — Advanced Matplotlib
 
+This lesson covers advanced Matplotlib techniques for creating professional,
+publication-quality visualizations.
+
+## Topics Covered
+- Figure vs Axes
+- Proper subplots layout
+- Plot styles
+- Line customization
+- Legends and annotations
+- Grid control
+- Twin axes
+- Log scaling
+- Saving high-quality plots
+- Performance optimization
+- Real-world dashboard-style plots
 
 
