@@ -97,4 +97,20 @@ publication-quality visualizations.
 - Performance optimization
 - Real-world dashboard-style plots
 
+# Day 46 — Seaborn (Statistical Visualization)
+
+This lesson introduces Seaborn for statistical data visualization.
+It focuses on distribution analysis, relationships, and category-based insights.
+
+## Topics Covered
+- Distribution plots
+- Box and violin plots
+- Count plots
+- Scatter and regression plots
+- Bar plots with aggregation
+- Heatmaps
+- Pair plots
+- FacetGrid
+- Themes and styling
+- Real-world sales analysis
 
