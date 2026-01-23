@@ -114,3 +114,8 @@ It focuses on distribution analysis, relationships, and category-based insights.
 - Themes and styling
 - Real-world sales analysis
 
+| Use Seaborn when  | Use Matplotlib when |
+| ----------------- | ------------------- |
+| Statistical plots | Full control        |
+| Quick insights    | Custom dashboards   |
+| Pandas data       | Low-level tuning    |
