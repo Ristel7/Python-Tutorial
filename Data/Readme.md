@@ -119,3 +119,4 @@ It focuses on distribution analysis, relationships, and category-based insights.
 | Statistical plots | Full control        |
 | Quick insights    | Custom dashboards   |
 | Pandas data       | Low-level tuning    |
+
