@@ -10,3 +10,10 @@ Pandas, Matplotlib, and Seaborn.
 - Regional comparison
 - Profit distribution
 - Professional visualization practices
+
+| Section             | Insight              |
+| ------------------- | -------------------- |
+| Sales Trend         | Growth over time     |
+| Expenses Trend      | Cost control         |
+| Sales by Region     | Regional performance |
+| Profit Distribution | Profit consistency   |
