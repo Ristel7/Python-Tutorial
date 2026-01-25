@@ -17,3 +17,16 @@ Pandas, Matplotlib, and Seaborn.
 | Expenses Trend      | Cost control         |
 | Sales by Region     | Regional performance |
 | Profit Distribution | Profit consistency   |
+
+
+***Dashboard-style visuals are used in:***
+
+Business reports
+
+Power BI / Tableau logic
+
+Jupyter notebooks
+
+Data analyst interviews
+
+Stakeholder presentations
