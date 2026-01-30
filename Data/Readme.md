@@ -120,3 +120,22 @@ It focuses on distribution analysis, relationships, and category-based insights.
 | Quick insights    | Custom dashboards   |
 | Pandas data       | Low-level tuning    |
 
+# Polars Library — Fast Data Processing
+
+This module demonstrates data manipulation using Polars,
+a high-performance DataFrame library designed for large datasets.
+
+## Topics Covered
+- DataFrame creation
+- Column selection and filtering
+- Expression-based transformations
+- Conditional logic
+- GroupBy aggregations
+- Lazy execution
+- CSV handling
+- Real-world sales analysis
+
+## Why Polars
+- Faster than Pandas
+- Memory efficient
+- Optimized query execution
