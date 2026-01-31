@@ -139,3 +139,12 @@ a high-performance DataFrame library designed for large datasets.
 - Faster than Pandas
 - Memory efficient
 - Optimized query execution
+
+
+| Pandas              | Polars           |
+| ------------------- | ---------------- |
+| Row-based           | Columnar         |
+| Eager               | Lazy by default  |
+| Slower on big data  | Very fast        |
+| Python loops common | Expression-based |
+| Memory heavy        | Memory efficient |
