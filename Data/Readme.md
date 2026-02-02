@@ -148,3 +148,23 @@ a high-performance DataFrame library designed for large datasets.
 | Slower on big data  | Very fast        |
 | Python loops common | Expression-based |
 | Memory heavy        | Memory efficient |
+
+
+# Day 48 — Polars vs Pandas Performance Comparison
+
+This module compares Pandas and Polars performance using large datasets.
+It focuses on filtering, aggregation, column operations, and execution speed.
+
+## Topics Covered
+- DataFrame creation speed
+- Filtering performance
+- GroupBy aggregation
+- Column computations
+- Polars lazy execution
+- Performance comparison
+
+## Key Takeaway
+Polars outperforms Pandas on large datasets due to its
+columnar design, Rust backend, and lazy query optimization.
+
+
