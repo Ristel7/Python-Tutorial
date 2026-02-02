@@ -168,3 +168,11 @@ Polars outperforms Pandas on large datasets due to its
 columnar design, Rust backend, and lazy query optimization.
 
 
+📊 **Expected Performance Outcome (Typical)**
+| Operation          | Pandas          | Polars      |
+| ------------------ | --------------- | ----------- |
+| DataFrame creation | Slower          | Faster      |
+| Filtering          | Slower          | Faster      |
+| GroupBy            | Slower          | Much faster |
+| Column operations  | Moderate        | Faster      |
+| Lazy optimization  | ❌ Not available | ✅ Very fast |
