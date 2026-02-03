@@ -163,10 +163,6 @@ It focuses on filtering, aggregation, column operations, and execution speed.
 - Polars lazy execution
 - Performance comparison
 
-## Key Takeaway
-Polars outperforms Pandas on large datasets due to its
-columnar design, Rust backend, and lazy query optimization.
-
 
 📊 **Expected Performance Outcome (Typical)**
 | Operation          | Pandas          | Polars      |
