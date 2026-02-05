@@ -33,6 +33,7 @@ It covers array creation, manipulation, mathematical operations, and real-world 
 - Stacking arrays
 - Data normalization
 
+**Details
 | Concept          | Why It Matters            |
 | ---------------- | ------------------------- |
 | NumPy arrays     | Faster than lists         |
