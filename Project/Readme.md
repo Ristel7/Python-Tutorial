@@ -65,3 +65,5 @@ regional performance, and overall profitability.
 - North region contributes higher total sales
 - Profits increase over time but expenses also rise
 - Business growth is positive with scope for cost optimization
+
+
