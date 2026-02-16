@@ -8,6 +8,6 @@ def speak(text):
 
 command = "hello" # This would normally come from your microphone
 
-# Speak Commands
+# Speak Commands for output
 if "hello" in command:
     speak("Hello Priyanshu, how can I help you with your code today?")
